@@ -1,7 +1,5 @@
 
 def twoNumberSum(array, targetSum):
-    # Write your code here.
-
     # find the length of the list, into variable arrayLength
     arrayLength = len(array)
     lastIndex = arrayLength - 1
